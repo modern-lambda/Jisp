@@ -1,4 +1,4 @@
-package Jisp.Interface;
+package Jisp.lang.Interface;
 
 import java.util.Map;
 

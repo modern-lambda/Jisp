@@ -1,4 +1,4 @@
-package Jisp.Interface;
+package Jisp.lang.Interface;
 
 public interface ISeq extends IPersistentCollection {
 
